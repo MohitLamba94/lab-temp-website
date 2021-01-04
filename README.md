@@ -4,10 +4,11 @@
 - html pages for all other web pages that we create can be chosen at random and no restrictions on it.
 
 # How to add projects to the main page of the lab webpage?
-- For each project tht has to be added to the main page you need three things:
+- Currently each row can accomodate 3 projects. This can be increased to 4 if desired. There is no restriction on the number of rows. 
+- For each project the has to be added to the main page you need three things:
   - Title
   - One line description
-  - An image of max resolution `height="150" width="350"`.
+  - An image of max resolution `height="150" width="350"`. This image may be placed in the `images` folder or can be provided as a link to some image on the internet
 - Once you have these things ready, go to `index.html` and use the following template
 
 ```
